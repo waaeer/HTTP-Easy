@@ -2,7 +2,6 @@ Source: libhttp-easy-perl
 Section: perl
 Priority: optional
 Maintainer: Ivan Panchenko <wao@mail.ru>
-Author: Mons Anderson <mons@cpan.org>
 Build-Depends: debhelper (>= 9)
 Build-Depends-Indep: perl
 Standards-Version: 3.9.8
