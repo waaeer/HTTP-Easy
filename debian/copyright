@@ -1,0 +1,9 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Source: https://github.com/Mons
+Upstream-Contact: (information incomplete)
+Upstream-Name: HTTP-Easy
+
+Files: *
+Copyright: 2010-2024, Mons Anderson <mons@cpan.org>
+License: Artistic
+

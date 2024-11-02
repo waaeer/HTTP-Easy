@@ -1,0 +1,14 @@
+Source: libhttp-easy-perl
+Section: perl
+Priority: optional
+Maintainer: Ivan Panchenko <wao@mail.ru>
+Author: Mons Anderson <mons@cpan.org>
+Build-Depends: debhelper (>= 9)
+Build-Depends-Indep: perl
+Standards-Version: 3.9.8
+Homepage: https://github.com/waaeer/HTTP-Easy
+
+Package: libhttp-easy-perl
+Architecture: all
+Depends: ${misc:Depends}, ${perl:Depends}, libtime-local-perl, libscalar-util-perl
+Description: A library for working with HTTP protocol
