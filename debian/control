@@ -9,5 +9,5 @@ Homepage: https://github.com/waaeer/HTTP-Easy
 
 Package: libhttp-easy-perl
 Architecture: all
-Depends: ${misc:Depends}, ${perl:Depends}, libtime-local-perl, libscalar-util-perl
+Depends: ${misc:Depends}, ${perl:Depends}, libtime-local-perl
 Description: A library for working with HTTP protocol
